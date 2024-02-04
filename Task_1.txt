@@ -1,0 +1,13 @@
+'''
+Name: Ramya
+Date: 29/01/2024
+'''
+
+The expected output of the following Python code:
+
+data = [10, 501, 22, 37, 100, 999, 87, 351]
+result = filter(lambda x : x > 4, data)
+print(list(result))
+
+Expected outcome: The python program will return all the items from the list that are greater than
+4.
